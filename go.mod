@@ -1,3 +1,3 @@
-module github.com/nbarena/pngchunks
+module github.com/undernet/pngchunks
 
 go 1.18
