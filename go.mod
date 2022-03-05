@@ -1,3 +1,3 @@
-module github.com/yumland/pngchunks
+module github.com/murkland/pngchunks
 
 go 1.18

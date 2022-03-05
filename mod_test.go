@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/yumland/pngchunks"
+	"github.com/murkland/pngchunks"
 )
 
 func TestReadPNG(t *testing.T) {
